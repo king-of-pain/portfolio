@@ -16,25 +16,10 @@ body {
   /* text-align: center; */
   font-family: "Varela Round", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: var(--dark-grey);
-  font-size: 16px;
-
-  background-color: var(--dark-grey);
 }
 
 .svg-container {
   position: relative;
-  width: 70%;
+  width: 100%;
   height: auto;
-}
-
-.subtitle {
-  color: var(--dark-green);
-  font-size: 1.4em;
-  letter-spacing: 0.4rem;
-
-  /* margin-left: rem; */
-}
-
-.title {
-  letter-spacing: 0.15em; /* Adjust as needed */
 }
